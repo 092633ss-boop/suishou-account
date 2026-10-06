@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.openai/
+.sites-runtime/
+.env
+.env.*
+*.tar.gz
+*.zip
